@@ -1,2 +1,2 @@
-# electric-fan-hierarchy
-Tugas 1 Grafkom 
+# Electric Fan Hierarchy
+Sebagai Tugas 1 Kelompok Grafkom 
